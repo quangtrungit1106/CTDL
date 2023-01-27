@@ -12,6 +12,8 @@ const int cot = 26;
 int diemBan = 0, diemMay = 0, sran;  
 char random;
 
+
+
 bool check = false;
 char ki_tu_ngau_nhien();
 void outScreen();
